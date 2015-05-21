@@ -13,6 +13,7 @@ A very opinionated seed for creating Single Page Apps that uses Browserify, Reac
 * React
 * Flux
 * Bootstrap
+* React-router
 
 ## Using it
 
