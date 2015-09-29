@@ -35,8 +35,10 @@
   "homepage": "https://github.com/mgonto/react-browserify-spa-seed",
   "dependencies": {
     "bootstrap": "^3.3.0",
+    "clean-css": "^3.4.5",
     "flux": "^2.0.1",
-    "react": "^0.13.1"
+    "react": "^0.13.1",
+    "serve": "^1.4.0"
   },
   "devDependencies": {
     "babelify": "^6.0.2",
